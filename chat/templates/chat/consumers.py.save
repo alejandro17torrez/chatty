@@ -1,0 +1,5 @@
+import json
+from channels.generic.websocket import r
+from asgiref.sync import sync_to_async
+
+class ChatConsumer()
